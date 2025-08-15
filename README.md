@@ -13,7 +13,7 @@ A sophisticated trading bot for Telegram that executes trades based on customiza
 ## Installation
 
 ```bash
-git clone https://github.com/your-username/tg_trade_bot.git
+git clone https://github.com/mishasoftit/tradeBot_telegram.git
 cd tg_trade_bot
 
 # Create .env file from template
