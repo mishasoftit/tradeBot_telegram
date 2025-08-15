@@ -1,0 +1,12 @@
+aiogram==3.0
+ccxt==4.2.55
+SQLAlchemy==2.0.25
+cryptography==42.0.5
+python-dotenv==1.0.0
+apscheduler==3.10.4  # For task scheduling
+asyncpg==0.29.0      # Async PostgreSQL driver
+pytest==8.2.0        # Testing framework
+pytest-asyncio==0.23.6 # Async test support
+pytest-cov==4.1.0    # Coverage plugin
+mock==5.1.0          # Mocking library
+coverage==7.3.0      # Coverage tool
