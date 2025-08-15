@@ -27,6 +27,3 @@ Include in bug reports:
 - Environment details (Python version, OS)
 - Relevant logs (remove sensitive data)
 
-## Security
-- Never commit secrets to the repository
-- Report security vulnerabilities privately to security@example.com
